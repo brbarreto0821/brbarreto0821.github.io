@@ -698,6 +698,9 @@ a.navbar-brand.our_logo{
 	padding:120px 0px;
 	display:inline-block;
 }
+.single_abouts_text {
+    padding: 40px;
+}
 .single_abouts_text h4{
 	color:#000000;
 }
@@ -721,7 +724,7 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/ft.png) right center no-repeat;
+	background:url(../images/ft.jpg) right center no-repeat;
 	padding:40px;
 	overflow:hidden;
 }
