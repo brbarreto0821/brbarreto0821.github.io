@@ -852,7 +852,7 @@ a.navbar-brand.our_logo{
 
 .single_pakeg_text{
 	background:#fff;
-	padding:30px;
+	padding:20px;
 	text-align:left;
 }
 
@@ -875,6 +875,8 @@ a.navbar-brand.our_logo{
 .single_pakeg_text ul li .item-price {
     flex: 0;
     text-align: right;
+    white-space: nowrap;
+    display: inline-block;
 }
 
 /* Mobail Apps Section css */
